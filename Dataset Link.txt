@@ -1,0 +1,8 @@
+Canadian Institute for Cybersecurity Website
+https://www.unb.ca/cic/datasets/ids-2017.html
+
+
+Direct Link:
+http://cicresearch.ca/CICDataset/CIC-IDS-2017/
+
+(After registering, go through path CIC-IDS-2017>CSVs>MachileLearningCSV.ZIP - DOWNLOAD
